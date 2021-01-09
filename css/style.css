@@ -1,0 +1,50 @@
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+  background: #61a5d8;
+}
+
+.bg-light {
+  background: #61a5d8!important;
+}
+
+.navbar-inverse .container-fluid a{
+  color: white;
+}
+
+.navbar-inverse .navbar-nav>.active>a {
+  background: #0061AC;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+  color: white;
+  background: #0061AC;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
+  background: #0061AC;
+}
+
+.content {
+  background-color: #f2f2f2;
+  padding: 40px;
+}
+
+ table.csv_table > :nth-child(1) > tr:nth-of-type(1) {
+	Font-weight: 700;
+}
+
+.nav-item {
+  font-weight: 600;
+}
+
+.navbar-light .navbar-nav .nav-link{
+  color: #ffffff;
+  
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+  color: rgba(0,0,0,.9);
+}
