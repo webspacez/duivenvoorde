@@ -140,7 +140,7 @@ body {
 
       <div class="text-center mb-4">
         <img class="mb-4" src="img/logo-dark.png" alt="">
-        <h1 class="h3 mb-3 font-weight-normal">Juice House Cloud</h1>
+        <h1 class="h3 mb-3 font-weight-normal">Duivenvoorde Cloud</h1>
 
         <?php if(isset($msg)){?>
       <div><?php echo $msg;?></div>
